@@ -11,6 +11,8 @@ Objective:
 
 The goal of this project is to create a dynamic and user-friendly Interactive Quiz Application using web development technologies. Users can answer multiple-choice questions, receive immediate feedback, and view their scores at the end of the quiz.
 
+![IMG_20241224_181004](https://github.com/user-attachments/assets/dfdcc42e-2a1d-426e-bc99-3007d8509960)
+
 
 Key Features:
 
